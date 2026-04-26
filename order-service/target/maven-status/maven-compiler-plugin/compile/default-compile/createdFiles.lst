@@ -1,0 +1,16 @@
+com\poc\order\filter\CorrelationIdFilter.class
+com\poc\order\dto\ProductResponse.class
+com\poc\order\client\ProductServiceClient.class
+com\poc\order\service\OrderServiceImpl.class
+com\poc\order\dto\OrderItemRequest.class
+com\poc\order\dto\OrderItemResponse.class
+com\poc\order\entity\OrderItem.class
+com\poc\order\controller\OrderController.class
+com\poc\order\dto\OrderResponse.class
+com\poc\order\OrderServiceApplication.class
+com\poc\order\dto\OrderRequest.class
+com\poc\order\entity\OrderEntity.class
+com\poc\order\config\FeignCorrelationInterceptor.class
+com\poc\order\service\OrderService.class
+com\poc\order\repository\OrderRepository.class
+com\poc\order\config\ModelMapperConfig.class

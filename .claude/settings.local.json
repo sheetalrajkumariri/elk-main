@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sleep:*)",
+      "Bash(echo:*)",
+      "Bash(curl:*)",
+      "Bash(for port:*)",
+      "Bash(find 'D:/Development/POC/ELK poc' -type d ! -path */target* ! -path */.idea* ! -path */.git*)",
+      "Bash(wc:*)"
+    ]
+  }
+}
